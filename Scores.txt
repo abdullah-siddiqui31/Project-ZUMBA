@@ -1,0 +1,6 @@
+Basam  20  3
+Wasim  15  2
+Tarik  00  1
+rafat  00  1
+reyan  00  1
+Nauman  00  1

@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\desktop\\COAL Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE14EE8-5FFC-48B2-A999-13AA25FC6361}|Project2.vcxproj|D:\\desktop\\COAL Project\\q.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5AE14EE8-5FFC-48B2-A999-13AA25FC6361}|Project2.vcxproj|solutionrelative:q.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "q.asm",
+              "DocumentMoniker": "D:\\desktop\\COAL Project\\q.asm",
+              "RelativeDocumentMoniker": "q.asm",
+              "ToolTip": "D:\\desktop\\COAL Project\\q.asm",
+              "RelativeToolTip": "q.asm",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsGAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-26T07:03:10.32Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
